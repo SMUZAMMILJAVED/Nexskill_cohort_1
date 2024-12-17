@@ -1,0 +1,77 @@
+ /* p,h1{
+    color: aqua;
+    background-color: black;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}  */
+  /* *{
+    font-family: 'Courier New', Courier, monospace;
+  } */
+/* .para{
+color: aqua;
+} */
+ 
+/* #id1{
+    color: blueviolet;
+} */
+ /* div a{
+    background-color: black;
+    color: white;
+ } */
+  /* h1~p{
+    color: aqua;
+  } */
+   /* *{
+    color:aqua
+   }
+   p{
+    color: brown;
+   }
+   .para{
+    color: blue;
+   }
+   #id1{
+  color: chartreuse;
+   } */
+    /* .para{
+        color: blue;
+    }
+    .para2{
+        color: red;
+    } */
+     /* body{
+        font-family: 'Courier New', Courier, monospace;
+        padding: 10px;
+     }
+.para{
+border: 2px solid brown;
+padding: inherit;
+} */
+ /* .para{
+    color: #2e1c81;
+    color: rgb(0 ,0, 255);
+    background-color: yellow;
+    opacity:0.5;
+ } */
+  body{
+  font-family: sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  font-stretch: normal;
+  font-size: 10px;
+  }
+  .para{
+    font-size: 2em;
+    /* text-transform: lowercase; */
+  }
+  .uper{
+    text-transform: uppercase;
+  }
+  /* a{
+    text-decoration: none;
+
+  } */
+   p{
+    text-decoration: underline;
+   }

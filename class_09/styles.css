@@ -1,0 +1,37 @@
+/* *{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px
+   
+}
+.head{
+    color: brown;
+    background-color:black;
+}
+#id1{
+color: green;
+
+} */
+/* *{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 20px;
+    font-style: italic;
+     text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+} */
+ .para{
+    /* line-height: 30px;
+    word-spacing: 30px;
+    letter-spacing: 20px; */
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-indent: 20px; */
+    /* text-shadow: -4px 4px 1px #000; */
+
+ }
+/* .para:hover{
+    color: blue;
+  
+} */

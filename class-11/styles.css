@@ -1,0 +1,51 @@
+/* div{
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+}
+.text1{
+    height: 30px;
+} */
+ /* div{
+    position: absolute;
+    left: 0;
+ } */
+  /* .parent{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000;
+    position: relative;
+    bottom: 0;
+  }
+  .child{
+    position: absolute;
+    bottom: 0;
+  }
+  .footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+  } */
+   /* *{
+    font-family: "Sevillana", cursive;
+  font-weight: 400;
+  font-style: normal;
+   } */
+/* .container{
+  display: flex;
+  flex-direction: row-reverse; 
+  justify-content: space-evenly;
+}
+.box1{
+  flex: 1;
+  
+}
+.box2{
+    flex: 1;
+}
+.box3{
+    flex: 1;
+    order: -1;
+} */
