@@ -32,7 +32,7 @@
 // var num = parseInt(prompt("enter any number ?")) ;
 // console.log(num + 5 );
 // var num = + prompt("type any number");
-// if (num%2 ===0){
+// if (num % 2 === 0){
 //     console.log("even");
 
 // }

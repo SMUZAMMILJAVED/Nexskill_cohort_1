@@ -42,7 +42,7 @@
 // console.log("original" + students);
 
                 // for loops 
-// for (var i = 100; i>0; i--) {
+// for (var i = 5; i>0; i--) {
 //   console.log(i);
 // }
 
@@ -55,8 +55,8 @@
 // for (var i = 1; i<=10; i++ ) {
 //  console.log("2 x " + i + " = " + 2*i);
 // }
-for (var i=1; i<=10; i++){
- console.log("");
+// for (var i=1; i<=10; i++){
+//  console.log("");
  
  
-}
+// }

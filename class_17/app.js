@@ -48,7 +48,6 @@
 // console.log(month);
 // var fruitsBasket=["apple","orange","mango"];
 // console.log(fruitsBasket[2]);
-
 // var student=["hanzala","hadi","sheraz"];
 // console.log(student[2]);
 // push pop 
@@ -75,7 +74,7 @@
 // console.log(cars);
 // slice 
 // var cars=["toyota","suzuki","honda","nissan"];
-// console.log(cars.slice(2,2));
+// console.log(cars.slice(2,3));
 // console.log(cars);
 
 

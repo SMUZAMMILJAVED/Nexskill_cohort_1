@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.login-form {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #4A90E2;
+}
+
+.logo-container .logo {
+    width: 30px;
+    height: 30px;
+}
+
+.welcome-message {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+.details-text {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.remember-forgot label {
+    font-size: 14px;
+}
+
+.forgot-password {
+    font-size: 14px;
+    text-decoration: none;
+    color: #4A90E2;
+}
+
+.sign-in-btn, .google-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sign-in-btn {
+    background-color: #4A90E2;
+    color: white;
+}
+
+.google-btn {
+    background-color: #db4437;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.google-logo {
+    width: 20px;
+    height: 20px;
+}
+
+.sign-up-text {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.sign-up-text a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+.image-container {
+    display: none;
+    /* Add image styling here if required */
+}
+
+@media (min-width: 768px) {
+    .image-container {
+        display: block;
+        margin-left: 30px;
+    }
+    
+    .container {
+        justify-content: space-between;
+    }
+}
